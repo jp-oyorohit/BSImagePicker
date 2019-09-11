@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit', 'Photos'
   s.dependency 'BSImageView', '1.0.3'
-  s.dependency 'BSGridCollectionViewLayout', '1.2.3'
+  s.dependency 'BSGridCollectionViewLayout', '1.2.5'
 end
